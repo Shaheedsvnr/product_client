@@ -1,0 +1,130 @@
+/* Style the product page container */
+._1AtVbE {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+  
+  /* Style the product title */
+  ._4rR01T {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  /* Style the product image */
+  ._396cs4 {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Style the product price */
+  ._30jeq3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff5722;
+    margin-top: 10px;
+  }
+  
+  /* Style the product ratings and reviews */
+  ._1lRcqv {
+    font-size: 20px;
+    font-weight: bold;
+    color: #388e3c;
+  }
+  
+  /* Style the product details list */
+  ._1xgFaf {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style the product details list items */
+  .rgWa7D {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  /* Style the "Add to Compare" button */
+  ._6Up2sF {
+    cursor: pointer;
+    color: #1e90ff;
+    text-decoration: underline;
+  }
+  
+  /* Style the checkbox for "Add to Compare" */
+  ._30VH1S {
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+  
+  /* Style the product image container */
+  .MIXNux {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Style the product image div */
+  .CXW8mj {
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the product page row */
+  ._3pLy-c {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  /* Style the warranty badge */
+  ._13J9qT img {
+    width: 21px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  /* Style the product page container */
+  ._2kHMtA {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  /* Style the product page link */
+  ._1fQZEK {
+    text-decoration: none;
+  }
+  
+  /* Style the product page link on hover */
+  ._1fQZEK:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style the compare checkbox label */
+  ._2iDkf8 {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Style the compare checkbox icon */
+  ._24_Dny {
+    width: 16px;
+    height: 16px;
+    background-color: #1e90ff;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  /* Style the compare checkbox icon on hover */
+  ._2iDkf8:hover ._24_Dny {
+    background-color: #ff5722;
+  }
+  
